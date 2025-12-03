@@ -15,10 +15,8 @@
 
 ## 2. Version Control & Storage (GitHub)
 - Push all scripts, assets, notebooks, and documentation to GitHub.
-- Serves as the **source of truth**:
+- Serves as the repository and collarboative space
   - versioning  
-  - collaboration  
-  - sharing  
   - backup  
 
 ---
