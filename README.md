@@ -1,4 +1,4 @@
-# Digital Archive Processing Stack
+# Digital Archive Processing Pipeline
 
 ## 1. Local Development (PyCharm)
 - Write and test `.py` scripts.
